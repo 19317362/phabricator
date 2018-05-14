@@ -1,4 +1,6 @@
 **Phabricator** is a collection of web applications which help software companies build better software.
+Install guide
+https://admin.phacility.com/book/phacility/article/start/
 
 Phabricator includes applications for:
 
