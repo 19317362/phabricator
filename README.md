@@ -2,6 +2,9 @@
 Install guide
 https://secure.phabricator.com/book/phabricator/article/installation_guide/
 
+
+https://en.wikipedia.org/wiki/List_of_tools_for_code_review
+
 Phabricator includes applications for:
 
   - reviewing and auditing source code;
